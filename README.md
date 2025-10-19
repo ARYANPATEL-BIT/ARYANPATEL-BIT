@@ -29,8 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanpatel-bit&show_icons=true&locale=en" alt="aryanpatel-bit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanpatel-bit&" alt="aryanpatel-bit" /></p>
-_icons=true&locale=en&layout=compact" alt="aryanpatel-bit" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanpatel-bit&show_icons=true&locale=en" alt="aryanpatel-bit" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanpatel-bit&" alt="aryanpatel-bit" /></p>
