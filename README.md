@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanpatel-bit" alt="aryanpatel-bit" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript , Python**
+- 🌱 I’m currently learning **JavaScript , React**
 
-- 💬 Ask me about **HTML , CSS**
+- 💬 Ask me about **HTML , CSS , Python**
 
 - 📫 How to reach me **aryan.patel7291@gmail.com**
 
