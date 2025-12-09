@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aryan Patel</h1>
+<h1 align="center">Aryan Patel</h1>
 <h3 align="center">Fun Fact: Just a Human :) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanpatel-bit&label=Profile%20views&color=0e75b6&style=flat" alt="aryanpatel-bit" /> </p>
