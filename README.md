@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanpatel-bit" alt="aryanpatel-bit" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript , React, GoLang**
+- 🌱 I’m currently learning **React, GoLang**
 
 - 💬 Ask me about **HTML , CSS , Python**
 
