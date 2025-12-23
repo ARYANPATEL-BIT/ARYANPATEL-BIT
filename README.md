@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, GoLang**
 
-- 💬 Ask me about **HTML , CSS , Python**
+- 💬 Ask me about **HTML , CSS , Python, JavaScript**
 
 - 📫 How to reach me **aryan.patel7291@gmail.com**
 
