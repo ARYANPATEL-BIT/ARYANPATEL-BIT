@@ -1,6 +1,7 @@
 # 💫 About Me:
 In the end "The Winner takes it all".
 
+[![](https://visitcount.itsvg.in/api?id=ARYANPATEL-BIT&icon=0&color=11)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan.void) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-64-aryan-patel-512-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryan.void888@gmail.com) 
@@ -19,5 +20,5 @@ In the end "The Winner takes it all".
 ![](https://github-contributor-stats.vercel.app/api?username=ARYANPATEL-BIT&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ARYANPATEL-BIT&icon=0&color=11)](https://visitcount.itsvg.in)
+
 
