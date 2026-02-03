@@ -1,6 +1,7 @@
 # 💫 About Me:
 In the end "The Winner takes it all".
 
+---
 [![](https://visitcount.itsvg.in/api?id=ARYANPATEL-BIT&icon=0&color=11)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
@@ -19,6 +20,5 @@ In the end "The Winner takes it all".
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ARYANPATEL-BIT&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
----
 
 
