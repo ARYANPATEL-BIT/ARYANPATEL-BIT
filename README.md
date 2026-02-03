@@ -21,4 +21,10 @@ In the end "The Winner takes it all".
 ---
 [![](https://visitcount.itsvg.in/api?id=ARYANPATEL-BIT&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ARYANPATEL-BIT&label=Profile%20views&color=0e75b6&style=flat" alt="ARYANPATEL-BIT" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ARYANPATEL-BIT" alt="ARYANPATEL-BIT" /></a> </p>
+
+
