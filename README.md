@@ -1,7 +1,7 @@
 In the end "The Winner takes it all".
 
 
-[![](https://visitcount.itsvg.in/api?id=ARYANPATEL-BIT&icon=0&color=9)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanpatel-bit&label=Profile%20views&color=0e75b6&style=flat" alt="aryanpatel-bit" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan.void) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-64-aryan-patel-512-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryan.void888@gmail.com) 
