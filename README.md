@@ -16,5 +16,8 @@
     <td colspan="2" align="center"><img src="https://github-readme-backend-idrs.vercel.app/api/quote?theme=amber&accent=F5B301&text=The%20person%20who%20have%20not%20hit%20there%20claude%20limit%20by%20noon%20had%20a%20wasted%20morning&author=Aryan%20Patel" width="800" alt="dev quote" /></td>
   </tr>
 </table>
+<p align="center">
+  <img src="ascii.svg" alt="ascii art" width="600" />
+</p>
 
 <p align="center"><sub>last updated 2026.08 · made with &lt;3</sub></p>
