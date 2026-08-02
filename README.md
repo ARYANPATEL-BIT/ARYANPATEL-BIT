@@ -19,5 +19,3 @@
 <p align="center">
   <img src="ascii.svg" alt="ascii art" width="600" />
 </p>
-
-<p align="center"><sub>last updated 2026.08 · made with &lt;3</sub></p>
