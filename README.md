@@ -19,4 +19,4 @@
 <p align="center">
   <img src="ascii.svg" alt="ascii art" width="600" />
 </p>
-[![An image of @aryanpatelbit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryanpatelbit)](https://holopin.io/@aryanpatelbit)
+<!-- [![Holopin](https://holopin.onrender.com/aryanpatelbit)](https://holopin.io/@aryanpatelbit) -->
