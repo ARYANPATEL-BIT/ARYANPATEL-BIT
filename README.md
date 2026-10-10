@@ -1,7 +1,7 @@
 <!-- readme.forge dashboard grid · GitHub mobile linearizes <table> layouts: modules stack top-to-bottom on phones (intended) -->
 <table border="0" cellspacing="8" cellpadding="0" width="100%">
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-backend-idrs.vercel.app/api/whoami?username=ARYANPATEL-BIT&theme=amber&accent=F5B301&name=Aryan%20Patel&tagline=2%20Protect%20Your%20Peace%20of%20Mind" width="800" alt="whoami" /></td>
+    <td colspan="2" align="center"><img src="https://github-readme-backend-idrs.vercel.app/api/whoami?username=ARYANPATEL-BIT&theme=amber&accent=F5B301&name=Aryan%20Patel&tagline=Protect%20Your%20Peace%20of%20Mind" width="800" alt="whoami" /></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><img src="https://github-readme-backend-idrs.vercel.app/api/stats?username=ARYANPATEL-BIT&theme=amber&accent=F5B301" width="800" alt="github stats" /></td>
